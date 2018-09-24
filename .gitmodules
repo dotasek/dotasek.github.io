@@ -1,0 +1,3 @@
+[submodule "cytoscape-platform-tests-js"]
+	path = cytoscape-platform-tests-js
+	url = https://github.com/BrettJSettle/cytoscape-platform-tests-js.git
